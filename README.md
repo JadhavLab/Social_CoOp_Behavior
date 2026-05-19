@@ -1,5 +1,5 @@
-<h1 align="center"> Social_CoOp_Behavior</h1>
-Social cooperative behavior paradigm on paired mazes in rats.
+Social_CoOp_Behavior
+<h1 align="center"> Social cooperative behavior paradigm on paired mazes in rats.</h1>
 
 This repository contains the analysis code for the manuscript:
 
